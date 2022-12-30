@@ -10,7 +10,7 @@ The purpose of this project is to provide a fully static design as well as a ful
 
 ## Getting Started
 ### Block Diagram
-![Image_01](assets/Block Diagram.png?raw=true)
+![Image_01](assets/Block_Diagram.png?raw=true)
 
 ### ECUs Layered Architecture
 ![Image_01](assets/ECU1 Layered Architecture.png?raw=true)
