@@ -24,7 +24,7 @@ The purpose of this project is to provide a fully static design as well as a ful
 
 ### Sequence diagram for the ECU1
 ![Image_01](assets/sequence_diagram_for_the_ECU1.png?raw=true)
-### Sequence diagram for the ECU1
+### Sequence diagram for the ECU2
 ![Image_01](assets/sequence_diagram_for_the_ECU2.png?raw=true)
 
 ## Authors
